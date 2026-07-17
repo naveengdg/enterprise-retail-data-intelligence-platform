@@ -26,6 +26,11 @@ This project builds an end-to-end modern data platform using Azure, Snowflake, a
 <img width="1536" height="1024" alt="ChatGPT Image Jul 17, 2026, 11_53_28 AM" src="https://github.com/user-attachments/assets/fa22ecd7-d145-4cca-b140-cdb631c316d7" /># Enterprise Retail Data Intelligence Platform with GenAI 
 
 
+## Use Case Diagram
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/31dc8204-75f3-4792-bfed-91b2c3e58f1f" />
+
+
 ## Tech Stack
 
 Data Engineering:
