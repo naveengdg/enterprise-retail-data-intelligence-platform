@@ -1,0 +1,132 @@
+# Project Development Tracker
+
+
+## Phase 1: Data Source Preparation
+
+Tasks:
+
+- [ ] Download Instacart dataset
+
+- [ ] Analyze schema
+
+- [ ] Understand relationships
+
+- [ ] Generate synthetic customers
+
+- [ ] Generate additional transactions
+
+- [ ] Add timestamp columns for incremental loading
+
+
+Status:
+Not Started
+
+
+
+## Phase 2: Azure Data Ingestion
+
+Tasks:
+
+- [ ] Create ADLS containers
+
+- [ ] Configure Azure Data Factory
+
+- [ ] Create linked services
+
+- [ ] Build Copy pipeline
+
+- [ ] Implement watermark logic
+
+- [ ] Store raw files in Bronze zone
+
+
+Status:
+Not Started
+
+
+
+## Phase 3: Databricks Processing
+
+Tasks:
+
+- [ ] Connect Databricks with ADLS
+
+- [ ] Create Bronze notebook
+
+- [ ] Read raw data
+
+- [ ] Create Silver transformations
+
+- [ ] Remove duplicates
+
+- [ ] Handle null values
+
+- [ ] Build Gold analytics tables
+
+
+Status:
+Not Started
+
+
+
+## Phase 4: Snowflake Warehouse
+
+Tasks:
+
+- [ ] Create database
+
+- [ ] Create schemas
+
+- [ ] Load Gold tables
+
+- [ ] Implement Snowpipe
+
+- [ ] Create Streams
+
+- [ ] Create Tasks
+
+- [ ] Implement RBAC
+
+
+Status:
+Not Started
+
+
+
+## Phase 5: GenAI Analytics OpenAi
+
+Tasks:
+
+- [ ] Create schema documents
+
+- [ ] Store embeddings in ChromaDB
+
+- [ ] Build LangGraph workflow
+
+- [ ] Create SQL generation agent
+
+- [ ] Connect Snowflake execution tool
+
+- [ ] Generate business explanation
+
+
+Status:
+Not Started
+
+
+
+## Phase 6: Application
+
+Tasks:
+
+- [ ] Create FastAPI backend
+
+- [ ] Create Streamlit UI
+
+- [ ] Add dashboard
+
+- [ ] Deploy application
+
+
+Status:
+Not Started
